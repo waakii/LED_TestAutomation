@@ -1,0 +1,222 @@
+[Workspace Header]
+Version = 1301
+Pathname = "/c/Users/rkh-virtual/Documents/National Instruments/CVI/UI_test.cws"
+CVI Dir = "/c/program files/national instruments/cvi2013"
+CVI Shared Dir = "/C/Program Files/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2013"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "UI_test.prj"
+Drag Bar Left = 340
+Window Top = 49
+Window Left = 242
+Window Bottom = 69
+Window Right = 358
+Maximized = False
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 8
+Window Confinement Region Enabled = True
+MainColumnWidth = 323
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1301
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path = "/c/Users/rkh-virtual/Documents/National Instruments/CVI/UI_test.uir"
+File Type = "User Interface Resource"
+Disk Date = 3485911408
+In Projects = "1,"
+Window Top = 212
+Window Left = 98
+Window Height = 349
+Window Width = 980
+Window Z-Order = 2
+
+[File 0002]
+Path = "/c/Users/rkh-virtual/Documents/National Instruments/CVI/UI_test.c"
+File Type = "CSource"
+Disk Date = 3485911688
+In Projects = "1,"
+Window Top = 392
+Window Left = 194
+Window Z-Order = 1
+Source Window State = "1,112,113,112,0,0,0,0,0,364,0,0,0,0,0,57,92,0,105,234,349,980,1,0,"
+
+[File 0003]
+Path = "/c/Program Files/IVI Foundation/IVI/Include/chr616xx.h"
+File Type = "Include"
+Disk Date = 3459114404
+In Projects = ""
+Window Top = 332
+Window Left = 162
+Window Z-Order = 8
+Source Window State = "1,616,616,616,18,34,34,0,3,157,0,0,0,0,0,25,607,0,616,18,349,980,1,0,"
+
+[File 0004]
+Path = "/c/Program Files/IVI Foundation/IVI/Drivers/chr616xx/chr616xx_example.c"
+File Type = "CSource"
+Disk Date = 3459114404
+In Projects = ""
+Window Top = 302
+Window Left = 146
+Window Z-Order = 7
+Source Window State = "1,84,85,84,4,4,4,0,3,157,0,0,0,0,0,25,58,0,85,4,349,980,1,0,"
+
+[File 0005]
+Path = "/c/Program Files/IVI Foundation/IVI/Drivers/tk22xx/tk22xx.c"
+File Type = "CSource"
+Disk Date = 3485313012
+In Projects = "1,"
+Window Top = 362
+Window Left = 178
+Window Z-Order = 3
+Source Window State = "1,506,506,506,4,27,27,0,0,157,0,415,0,0,0,25,454,0,428,47,349,980,1,18,"
+Breakpoint 0001 = "260,0,enabled,"
+
+[File 0006]
+Path = "/c/Program Files/IVI Foundation/IVI/Drivers/chr616xx/chr616xx.c"
+File Type = "CSource"
+Disk Date = 3459114404
+In Projects = ""
+Window Top = 272
+Window Left = 130
+Window Z-Order = 6
+Source Window State = "1,1384,1384,1384,28,37,37,0,0,157,0,0,0,0,0,25,1308,0,1361,51,349,980,1,0,"
+
+[File 0007]
+Path = "/c/Program Files/National Instruments/CVI2013/include/gpib.h"
+File Type = "Include"
+Disk Date = 3472592400
+In Projects = ""
+Window Top = 242
+Window Left = 114
+Window Z-Order = 5
+Source Window State = "1,60,60,60,16,23,23,0,3,140,0,0,0,0,0,25,52,0,60,16,349,878,1,0,"
+
+[File 0008]
+Path = "/c/Program Files/National Instruments/CVI2013/include/userint.h"
+File Type = "Include"
+Disk Date = 3472592400
+In Projects = ""
+Window Top = 152
+Window Left = 74
+Window Z-Order = 4
+Source Window State = "1,2403,2403,2403,12,26,26,0,3,157,0,0,0,0,0,22,2388,0,2403,12,310,980,1,0,"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
+[Distributions]
+Active Index = 1
+AbsCDSPath 0001 = "/c/Users/rkh-virtual/Documents/National Instruments/CVI/UI_test.cds"
+RelCDSPath 0001 = "UI_test.cds"
+
